@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:24.430395
+#+DATE: 2015-08-30 20:07:25.584008
 #+TITLE: 佛說八陽神呪經
 #+PROPERTY: CBETA_ID T14n0428
 #+PROPERTY: ID KR6i0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 428
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0004_T_001-0073b> 
 #+PROPERTY: JUAN 1
 ¶
-No.428[Nos.427,429-431]¶
-
- 佛說八陽神呪經¶
+No. 428 [Nos. 427, 429-431]¶
+佛說八陽神呪經¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -131,8 +130,7 @@ No.428[Nos.427,429-431]¶
 王、彌勒菩薩等比丘眾，及諸天龍、鬼神、人民、¶
 阿須倫，聞經歡喜，為佛作禮而去。¶
 
-八菩薩名：¶
-
+八菩薩名：
 第一名颰陀和菩薩、第二名羅那隣竭菩薩、¶
 第三名憍日兜菩薩、第四名那羅達菩薩、第¶
 五名須深菩薩、第六名因抵達菩薩、第七名¶
